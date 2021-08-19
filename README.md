@@ -1,4 +1,4 @@
-Hello,
+
 My programming skills:
 C#, JavaScript, HTML5, CSS and Angular.
 Design Patterns, Multithreading, Microservices and OOP (Object Oriented Programming).
