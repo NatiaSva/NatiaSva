@@ -2,6 +2,7 @@
 I’m a graduate of a .Net Academic course in Hacker-U College, with a scope of 560 academic hours.
 Proficient in C#, JavaScript, HTML5, CSS and Angular.
 My programming skills:
+
 ● Design Patterns, Multithreading, Microservices and OOP (Object Oriented Programming).
 ● WinForms and ASP .NET CORE WEB API.
 ● SQL Server Database - Familiarity with Connected layer, Disconnected layer and Entity Framework.
