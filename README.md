@@ -1,11 +1,11 @@
 
 My programming skills:
-C#, JavaScript, HTML5, CSS and Angular.
-Design Patterns, Multithreading, Microservices and OOP (Object Oriented Programming).
-WinForms and ASP .NET CORE WEB API.
-SQL Server Database - Familiarity with Connected layer, Disconnected layer and Entity Framework.
-Data structures: HashSet, Dictionary, Stack, Queue, LinkedList, ArrayList and Binary search tree.
-Experience with Visual Studio/Code, RabbitMQ, Swagger, Postman, Bootstrap, Github and SSMS.
+⚡C#, JavaScript, HTML5, CSS and Angular.
+⚡Design Patterns, Multithreading, Microservices and OOP (Object Oriented Programming).
+⚡WinForms and ASP .NET CORE WEB API.
+⚡SQL Server Database - Familiarity with Connected layer, Disconnected layer and Entity Framework.
+⚡Data structures: HashSet, Dictionary, Stack, Queue, LinkedList, ArrayList and Binary search tree.
+⚡Experience with Visual Studio/Code, RabbitMQ, Swagger, Postman, Bootstrap, Github and SSMS.
  📫 nat25520@gmail.com
 <!--
 **NatiaSva/NatiaSva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
