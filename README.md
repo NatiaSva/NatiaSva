@@ -1,5 +1,5 @@
 
-Hello
+Hi, you've reached Nati's Git!
 --------------------------------------------------------------------------------
 My programming skills:
 ⚡C#, JavaScript, HTML5, CSS and Angular.
