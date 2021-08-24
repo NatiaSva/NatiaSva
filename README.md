@@ -1,4 +1,3 @@
-![1](https://user-images.githubusercontent.com/55664887/130541760-a3b8f27a-1b20-47ed-8c81-34e7f9f7d983.PNG)
 
 My programming skills:
 ⚡C#, JavaScript, HTML5, CSS and Angular.
@@ -7,6 +6,7 @@ My programming skills:
 ⚡SQL Server Database - Familiarity with Connected layer, Disconnected layer and Entity Framework.
 ⚡Data structures: HashSet, Dictionary, Stack, Queue, LinkedList, ArrayList and Binary search tree.
 ⚡Experience with Visual Studio/Code, RabbitMQ, Swagger, Postman, Bootstrap, Github and SSMS.
+                                ![Uploading Code.PNG…]()
 
 <!--
 **NatiaSva/NatiaSva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
