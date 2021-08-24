@@ -12,9 +12,9 @@ My programming skills:
 
 📬 Get in touch
 ----------------------------------------------------------------------------------
-Feel free to leave a message -nat25520@gmail.com
+Feel free to leave a message - nat25520@gmail.com
 
-Connect with me on Linkedin -https://www.linkedin.com/in/natia-svanidze-273767101/
+Connect with me on Linkedin - https://www.linkedin.com/in/natia-svanidze-273767101/
 <!--
 **NatiaSva/NatiaSva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
