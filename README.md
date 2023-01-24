@@ -2,7 +2,7 @@
 Hi, you've reached Nati's Git!
 --------------------------------------------------------------------------------
 My programming skills:
-⚡C#, JavaScript, HTML5, CSS and Angular.
+⚡C#, JavaScript, HTML5, CSS, React and Angular.
 ⚡Design Patterns, Multithreading, Microservices and OOP (Object Oriented Programming).
 ⚡WinForms and ASP .NET CORE WEB API.
 ⚡SQL Server Database - Familiarity with Connected layer, Disconnected layer and Entity Framework.
